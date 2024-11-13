@@ -1,18 +1,20 @@
+<div align="center">
+
 ## Read-Me:
 
-**This repo has stls that I have been working one. I've started to experiment with multiple pieces of software outlined below:**
+<p>This repo has stls that I have been working one. I've started to experiment with multiple pieces of software outlined below: </p>
 
 
 <br>
 
-- OpenSCAD
-- Autodesk Inventor
+- **OpenSCAD**
+- **Autodesk Inventor**
 
 <br>
 
 ## Repo File-Structure:
 
-
+<p>Noted here is the directory view of the repository as it appears on GitHub</p>
 
  OpenSCAD  
    |___ **Project** 
